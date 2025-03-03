@@ -1,0 +1,40 @@
+# Compiled class files
+target/
+
+# Maven build logs and temporary files
+mvnw
+mvnw.cmd
+pom.xml.tag
+pom.xml.releaseBackup
+release.properties
+
+# IDE and editor settings
+.idea/
+*.iml
+*.class
+
+# Logs and temp files
+*.log
+hs_err_pid*
+
+# Docker-related files
+.dockerignore
+docker-compose.override.yml
+
+
+
+# Ignore system files
+*.swp
+.viminfo
+
+# Ignore Maven dependencies
+.m2/
+
+# Ignore SSH and user-specific files
+.ssh/
+.cache/
+.sudo_as_admin_successful
+
+# Ignore environment files
+*.log
+
